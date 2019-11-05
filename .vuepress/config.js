@@ -42,7 +42,7 @@ module.exports = {
           { text: 'Algorithm', link: '/' }
         ]
       },
-
+      { text: 'Blog', link: '/blog/' },
       { text: 'GitHub', link: 'https://www.github.com/hackthegist/' }
     ],
     sidebar: {
